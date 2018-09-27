@@ -1,0 +1,11 @@
+Build Number: e5b711a
+Project Version: 1.10.2
+Build Date: 2015-01-23T23:54:55
+
+Wire.class: 669
+Response.class: 873
+ImmutableHeader.class: 3038
+RequestBody$Printable.class: 1683
+RequestURI.class: 1308
+RequestBody.class: 1357
+Request.class: 1420

@@ -1,0 +1,6 @@
+Build Number: f0aff93
+Project Version: 0.20.1
+Build Date: 2014-11-21T09:40:32
+
+QuietlyReturnTypeProcessor.class: 3418
+AsyncReturnTypeProcessor.class: 4384

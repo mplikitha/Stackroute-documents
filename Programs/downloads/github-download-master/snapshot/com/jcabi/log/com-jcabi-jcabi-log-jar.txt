@@ -1,0 +1,31 @@
+Build Number: 72ee165
+Project Version: 0.16
+Build Date: 2015-01-06T09:39:07
+
+ExceptionDecor.class: 2066
+SecretDecor.class: 2268
+DecorsManager.class: 4576
+MulticolorLayout.class: 5856
+DomDecor.class: 3402
+VerboseProcess$Monitor.class: 2591
+ListDecor.class: 2822
+PreFormatter.class: 3933
+Logger$1.class: 1192
+VerboseCallable$1.class: 1061
+MsDecor.class: 2968
+TextDecor.class: 2314
+SizeDecor.class: 3206
+NanoDecor.class: 2880
+VerboseThreads$Wrap.class: 1156
+VerboseCallable.class: 4863
+TypeDecor.class: 1703
+DecorException.class: 1372
+VerboseProcess.class: 6652
+ObjectDecor$1.class: 212
+Logger.class: 4687
+VerboseThreads$Group.class: 817
+ObjectDecor$ObjectContentsFormatAction.class: 2414
+VerboseRunnable.class: 4243
+VerboseRunnable$1.class: 1258
+VerboseThreads.class: 3711
+ObjectDecor.class: 2419

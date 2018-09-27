@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven
+Built-By: mwhite
+Build-Jdk: 1.7.0_45
+Main-Class: org.poverty_action.github.GitHubDownload
+JCabi-Build: 2d582ac
+JCabi-Date: 2015-01-29 16:35
+JCabi-Version: 0.19
+

@@ -1,0 +1,35 @@
+Build Number: f0aff93
+Project Version: 0.20.1
+Build Date: 2014-11-21T09:40:32
+
+MethodLogger.class: 15068
+LogHelper.class: 1341
+MethodScheduler.class: 5278
+MethodInterrupter$1.class: 734
+MethodScheduler$Service.class: 4102
+MethodCacher.class: 9638
+MethodCacher$Tunnel.class: 3460
+MethodCacher$Key.class: 4098
+ImmutabilityChecker.class: 7281
+Parallelizer$ParallelException.class: 900
+MethodLogger$2.class: 1269
+MethodAsyncRunner$1.class: 1800
+ImmutabilityChecker$Violation.class: 863
+ExceptionsLogger.class: 3752
+MethodCacher$1.class: 704
+MethodLogger$1.class: 1140
+Parallelizer$1.class: 1589
+MethodInterrupter.class: 5378
+NamedThreads.class: 1443
+Mnemos.class: 8436
+MethodValidator.class: 14422
+QuietExceptionsLogger.class: 4695
+Repeater.class: 8888
+Parallelizer.class: 8794
+MethodLogger$Marker.class: 3790
+SingleException.class: 6893
+JoinPointUtils.class: 1254
+MethodAsyncRunner.class: 4896
+MethodScheduler$Service$1.class: 1190
+MethodValidator$1.class: 2646
+MethodInterrupter$Call.class: 2952

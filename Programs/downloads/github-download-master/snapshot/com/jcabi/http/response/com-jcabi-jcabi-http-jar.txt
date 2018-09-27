@@ -1,0 +1,14 @@
+Build Number: e5b711a
+Project Version: 1.10.2
+Build Date: 2015-01-23T23:54:55
+
+XmlResponse.class: 4555
+JsonResponse$VerboseReader.class: 1520
+JsonResponse.class: 3349
+WebLinkingResponse$SimpleLink.class: 5010
+WebLinkingResponse.class: 3730
+JsoupResponse.class: 1320
+WebLinkingResponse$Link.class: 452
+AbstractResponse.class: 2241
+RestResponse.class: 8172
+RestResponse$StatusMatch.class: 956

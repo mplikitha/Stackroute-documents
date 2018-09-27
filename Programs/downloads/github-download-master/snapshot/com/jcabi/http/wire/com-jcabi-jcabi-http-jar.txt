@@ -1,0 +1,17 @@
+Build Number: e5b711a
+Project Version: 1.10.2
+Build Date: 2015-01-23T23:54:55
+
+AutoRedirectingWire.class: 3680
+CachingWire$2.class: 1102
+CachingWire$Query.class: 3055
+TrustedWire.class: 3823
+BasicAuthWire.class: 4367
+TrustedWire$1.class: 944
+CookieOptimizingWire.class: 4357
+UserAgentWire.class: 3502
+VerboseWire.class: 4231
+CachingWire.class: 4980
+CachingWire$1.class: 1834
+OneMinuteWire.class: 2483
+RetryWire.class: 3299

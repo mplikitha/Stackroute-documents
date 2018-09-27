@@ -1,0 +1,19 @@
+Build Number: e5b711a
+Project Version: 1.10.2
+Build Date: 2015-01-23T23:54:55
+
+GrizzlyQuery.class: 4965
+MkQueryHeaderMatcher.class: 2924
+MkAnswer.class: 563
+MkContainer.class: 1308
+MkGrizzlyAdapter.class: 7073
+MkQueryMatchers.class: 1285
+MkAnswerHeaderMatcher.class: 2933
+MkAnswerMatchers.class: 1292
+MkQuery.class: 409
+MkGrizzlyAdapter$Conditional.class: 2359
+MkGrizzlyContainer.class: 5062
+MkAnswer$Simple.class: 5417
+MkGrizzlyAdapter$QueryWithAnswer.class: 1734
+MkQueryBodyMatcher.class: 2330
+MkAnswerBodyMatcher.class: 2339

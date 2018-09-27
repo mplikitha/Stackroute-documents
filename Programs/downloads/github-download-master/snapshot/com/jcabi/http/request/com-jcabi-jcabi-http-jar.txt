@@ -1,0 +1,15 @@
+Build Number: e5b711a
+Project Version: 1.10.2
+Build Date: 2015-01-23T23:54:55
+
+FakeRequest$1.class: 1856
+DefaultResponse.class: 6863
+FakeRequest.class: 6746
+JdkRequest.class: 3458
+JdkRequest$1.class: 5660
+ApacheRequest.class: 3470
+ApacheRequest$1$1.class: 935
+BaseRequest.class: 10518
+ApacheRequest$1.class: 5733
+BaseRequest$BaseURI.class: 4901
+BaseRequest$BaseBody.class: 5074

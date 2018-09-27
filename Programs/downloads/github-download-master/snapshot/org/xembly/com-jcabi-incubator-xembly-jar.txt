@@ -1,0 +1,41 @@
+Build Number: 4c9dba7
+Project Version: 0.19.1
+Build Date: 2014-11-02T18:16:27
+
+Xembler.class: 14756
+DomStack.class: 1451
+RemoveDirective.class: 3886
+Directive.class: 502
+PopDirective.class: 3005
+CdataDirective.class: 4880
+Xembler$AjcClosure9.class: 697
+Directive$Pointer.class: 296
+Xembler$AjcClosure3.class: 741
+ImpossibleModificationException.class: 641
+SetDirective.class: 4363
+UpDirective.class: 4280
+Directives.class: 17663
+Arg.class: 7255
+XsetDirective.class: 6228
+Xembler$AjcClosure13.class: 703
+PushDirective.class: 3024
+Directive$Stack.class: 333
+ParsingException.class: 568
+Xembler$AjcClosure7.class: 704
+StrictDirective.class: 5621
+DomPointer.class: 1786
+Xembler$AjcClosure19.class: 719
+Xembler$AjcClosure15.class: 696
+Xembler$AjcClosure17.class: 696
+PiDirective.class: 5731
+Xembler$AjcClosure1.class: 748
+AttrDirective.class: 5020
+XmlContentException.class: 605
+SyntaxException.class: 483
+XemblyLexer.class: 10259
+Xembler$AjcClosure5.class: 741
+AddDirective.class: 5283
+AddIfDirective.class: 5910
+XemblyParser.class: 10528
+XpathDirective.class: 9136
+Xembler$AjcClosure11.class: 700

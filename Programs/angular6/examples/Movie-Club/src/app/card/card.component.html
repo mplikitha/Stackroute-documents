@@ -1,0 +1,39 @@
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+  <script src="includes/js/modernizr-2.6.2.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.0/js/bootstrap.min.js"></script>
+</head>
+
+<body>
+  <div class="card">
+    <div class="card-header">{{movieTitle}}</div>
+  </div>
+
+    <div class="card">
+      <div class="card-header">{{movieTitle}}</div>
+   <div class="card-body">
+   <ul>
+     <li *ngFor = "let data of movieLists.Search">
+        <h1>{{data.Title}}</h1>
+       <h1>{{data.Year}}</h1>
+       <h1>{{data.imdbID}}</h1>
+       <h1>{{data.Type}}</h1>
+       <h1>{{data.Poster}}</h1>
+        <!-- <h1>{{data.id}}</h1>
+       <h1>{{data.Title}}</h1>
+       <h1>{{data.rating}}</h1>
+       <h1>{{data.year}}</h1> -->
+      
+    </li>
+   </ul>
+    </div>
+    </div> 
+</body> 
+
+</html>

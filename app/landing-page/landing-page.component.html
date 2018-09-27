@@ -1,0 +1,18 @@
+<div class="container mt-4">
+<h3>Trending Movies</h3>
+<mat-grid-list cols="12" rowHeight="80px" fxLayout="row wrap" >
+    <div *ngFor="let movie of movies" id="container">
+        <mat-grid-tile colspan="3" rowspan="6">
+            <mat-card class="example-card">
+                <mat-card-header>
+                    <mat-card-title><a>{{movie.movieTitle}}</a></mat-card-title>
+                </mat-card-header>
+                <img mat-card-image src="{{movie.movieposter}}" alt="Poster of movie">
+                <mat-card-actions>
+                    <button mat-button routerLink="/moviedetail">Movie Details</button>
+                </mat-card-actions>
+            </mat-card>
+        </mat-grid-tile>
+    </div>
+</mat-grid-list>
+</div>

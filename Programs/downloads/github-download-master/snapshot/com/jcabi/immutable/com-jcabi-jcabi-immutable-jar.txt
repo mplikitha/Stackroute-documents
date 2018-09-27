@@ -1,0 +1,15 @@
+Build Number: 4ed53c9
+Project Version: 1.3
+Build Date: 2014-08-20T06:53:03
+
+ArrayComparator$Reverse.class: 1232
+ArrayMap$1.class: 215
+ArrayMap.class: 9395
+ArraySet.class: 6381
+ArrayComparator.class: 545
+ArrayComparator$Neutral.class: 1151
+ArrayComparator$Default.class: 1232
+ArrayMap$ImmutableEntry.class: 1900
+ArrayMap$Cmp.class: 2109
+ArraySortedSet.class: 9321
+Array.class: 9561

@@ -1,0 +1,23 @@
+Build Number: 29bdd59
+Project Version: 0.13
+Build Date: 2014-11-21T08:26:32
+
+ListWrapper$NodeNotFoundException.class: 1755
+XML.class: 1034
+XSLDocument.class: 12928
+Patterns.class: 452
+Sources.class: 220
+XSD.class: 536
+XSDDocument.class: 9884
+XSL.class: 663
+XMLDocument.class: 19989
+XSLDocument$2.class: 779
+DomParser.class: 5675
+TextResource.class: 5729
+ClasspathSources.class: 4488
+XSLChain.class: 5509
+XPathContext.class: 12344
+XSDDocument$ValidationHandler.class: 1150
+StrictXML.class: 10963
+ListWrapper.class: 6436
+XSLDocument$1.class: 1002

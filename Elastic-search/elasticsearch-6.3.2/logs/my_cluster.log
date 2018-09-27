@@ -1,0 +1,53 @@
+[2018-08-21T16:21:28,678][INFO ][o.e.n.Node               ] [node_1] initializing ...
+[2018-08-21T16:21:28,815][INFO ][o.e.e.NodeEnvironment    ] [node_1] using [1] data paths, mounts [[/ (/dev/sda1)]], net usable_space [398.7gb], net total_space [450.8gb], types [ext4]
+[2018-08-21T16:21:28,815][INFO ][o.e.e.NodeEnvironment    ] [node_1] heap size [990.7mb], compressed ordinary object pointers [true]
+[2018-08-21T16:21:28,817][INFO ][o.e.n.Node               ] [node_1] node name [node_1], node ID [3dmn6R4nRlm1EyLV49-0ig]
+[2018-08-21T16:21:28,817][INFO ][o.e.n.Node               ] [node_1] version[6.3.2], pid[23483], build[default/zip/053779d/2018-07-20T05:20:23.451332Z], OS[Linux/4.13.0-45-generic/amd64], JVM[Oracle Corporation/OpenJDK 64-Bit Server VM/1.8.0_171/25.171-b11]
+[2018-08-21T16:21:28,818][INFO ][o.e.n.Node               ] [node_1] JVM arguments [-Xms1g, -Xmx1g, -XX:+UseConcMarkSweepGC, -XX:CMSInitiatingOccupancyFraction=75, -XX:+UseCMSInitiatingOccupancyOnly, -XX:+AlwaysPreTouch, -Xss1m, -Djava.awt.headless=true, -Dfile.encoding=UTF-8, -Djna.nosys=true, -XX:-OmitStackTraceInFastThrow, -Dio.netty.noUnsafe=true, -Dio.netty.noKeySetOptimization=true, -Dio.netty.recycler.maxCapacityPerThread=0, -Dlog4j.shutdownHookEnabled=false, -Dlog4j2.disable.jmx=true, -Djava.io.tmpdir=/tmp/elasticsearch.XdMlWi4j, -XX:+HeapDumpOnOutOfMemoryError, -XX:HeapDumpPath=data, -XX:ErrorFile=logs/hs_err_pid%p.log, -XX:+PrintGCDetails, -XX:+PrintGCDateStamps, -XX:+PrintTenuringDistribution, -XX:+PrintGCApplicationStoppedTime, -Xloggc:logs/gc.log, -XX:+UseGCLogFileRotation, -XX:NumberOfGCLogFiles=32, -XX:GCLogFileSize=64m, -Des.path.home=/home/user/Documents/Elastic-search/elasticsearch-6.3.2, -Des.path.conf=/home/user/Documents/Elastic-search/elasticsearch-6.3.2/config, -Des.distribution.flavor=default, -Des.distribution.type=zip]
+[2018-08-21T16:21:31,462][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [aggs-matrix-stats]
+[2018-08-21T16:21:31,462][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [analysis-common]
+[2018-08-21T16:21:31,462][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [ingest-common]
+[2018-08-21T16:21:31,462][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [lang-expression]
+[2018-08-21T16:21:31,462][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [lang-mustache]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [lang-painless]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [mapper-extras]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [parent-join]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [percolator]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [rank-eval]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [reindex]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [repository-url]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [transport-netty4]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [tribe]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [x-pack-core]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [x-pack-deprecation]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [x-pack-graph]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [x-pack-logstash]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [x-pack-ml]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [x-pack-monitoring]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [x-pack-rollup]
+[2018-08-21T16:21:31,463][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [x-pack-security]
+[2018-08-21T16:21:31,464][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [x-pack-sql]
+[2018-08-21T16:21:31,464][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [x-pack-upgrade]
+[2018-08-21T16:21:31,464][INFO ][o.e.p.PluginsService     ] [node_1] loaded module [x-pack-watcher]
+[2018-08-21T16:21:31,464][INFO ][o.e.p.PluginsService     ] [node_1] no plugins loaded
+[2018-08-21T16:21:35,134][INFO ][o.e.x.s.a.s.FileRolesStore] [node_1] parsed [0] roles from file [/home/user/Documents/Elastic-search/elasticsearch-6.3.2/config/roles.yml]
+[2018-08-21T16:21:35,674][INFO ][o.e.x.m.j.p.l.CppLogMessageHandler] [controller/23501] [Main.cc@109] controller (64 bit): Version 6.3.2 (Build 903094f295d249) Copyright (c) 2018 Elasticsearch BV
+[2018-08-21T16:21:36,224][DEBUG][o.e.a.ActionModule       ] Using REST wrapper from plugin org.elasticsearch.xpack.security.Security
+[2018-08-21T16:21:36,548][INFO ][o.e.d.DiscoveryModule    ] [node_1] using discovery type [zen]
+[2018-08-21T16:21:37,608][INFO ][o.e.n.Node               ] [node_1] initialized
+[2018-08-21T16:21:37,608][INFO ][o.e.n.Node               ] [node_1] starting ...
+[2018-08-21T16:21:37,770][INFO ][o.e.t.TransportService   ] [node_1] publish_address {127.0.0.1:9300}, bound_addresses {[::1]:9300}, {127.0.0.1:9300}
+[2018-08-21T16:21:37,802][WARN ][o.e.b.BootstrapChecks    ] [node_1] max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]
+[2018-08-21T16:21:40,892][INFO ][o.e.c.s.MasterService    ] [node_1] zen-disco-elected-as-master ([0] nodes joined)[, ], reason: new_master {node_1}{3dmn6R4nRlm1EyLV49-0ig}{GHtBvbiaQvKGI2uYF6JHEw}{127.0.0.1}{127.0.0.1:9300}{ml.machine_memory=7989587968, xpack.installed=true, ml.max_open_jobs=20, ml.enabled=true}
+[2018-08-21T16:21:40,896][INFO ][o.e.c.s.ClusterApplierService] [node_1] new_master {node_1}{3dmn6R4nRlm1EyLV49-0ig}{GHtBvbiaQvKGI2uYF6JHEw}{127.0.0.1}{127.0.0.1:9300}{ml.machine_memory=7989587968, xpack.installed=true, ml.max_open_jobs=20, ml.enabled=true}, reason: apply cluster state (from master [master {node_1}{3dmn6R4nRlm1EyLV49-0ig}{GHtBvbiaQvKGI2uYF6JHEw}{127.0.0.1}{127.0.0.1:9300}{ml.machine_memory=7989587968, xpack.installed=true, ml.max_open_jobs=20, ml.enabled=true} committed version [1] source [zen-disco-elected-as-master ([0] nodes joined)[, ]]])
+[2018-08-21T16:21:40,923][INFO ][o.e.x.s.t.n.SecurityNetty4HttpServerTransport] [node_1] publish_address {127.0.0.1:9200}, bound_addresses {[::1]:9200}, {127.0.0.1:9200}
+[2018-08-21T16:21:40,923][INFO ][o.e.n.Node               ] [node_1] started
+[2018-08-21T16:21:41,217][WARN ][o.e.x.s.a.s.m.NativeRoleMappingStore] [node_1] Failed to clear cache for realms [[]]
+[2018-08-21T16:21:41,239][INFO ][o.e.l.LicenseService     ] [node_1] license [7296e869-59ad-4839-8a61-6b6a9ed8eecd] mode [basic] - valid
+[2018-08-21T16:21:41,250][INFO ][o.e.g.GatewayService     ] [node_1] recovered [0] indices into cluster_state
+[2018-08-21T20:54:49,417][INFO ][o.e.n.Node               ] [node_1] stopping ...
+[2018-08-21T20:54:49,491][INFO ][o.e.x.w.WatcherService   ] [node_1] stopping watch service, reason [shutdown initiated]
+[2018-08-21T20:54:49,678][INFO ][o.e.x.m.j.p.NativeController] Native controller process has stopped - no new native processes can be started
+[2018-08-21T20:54:50,180][INFO ][o.e.n.Node               ] [node_1] stopped
+[2018-08-21T20:54:50,315][INFO ][o.e.n.Node               ] [node_1] closing ...
+[2018-08-21T20:54:50,324][INFO ][o.e.n.Node               ] [node_1] closed
